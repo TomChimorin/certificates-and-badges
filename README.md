@@ -23,6 +23,10 @@ Here’s a collection of all the **certificates and badges** I’ve earned relat
 
 - **Great Learning ReactJS Tutorial Certification**  
   [View Certificate](https://www.mygreatlearning.com/certificate/CDRQMZRW)
+
+- **LinkedIn Docker Foundations Professional Certification**  
+  [View Certificate](https://www.linkedin.com/learning/certificates/3792e6cf2e8ed950f9b9b7f05da0916bb083d440c82964e3f5c323d0314c4e4f?trk=share_certificate)
+  
 ---
 
 ✨ *More to come! Always learning, always improving.*
