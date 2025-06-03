@@ -5,7 +5,6 @@ Here’s a collection of all the **certificates and badges** I’ve earned relat
 ---
 
 ## 🌐 Online Certifications
-
 - **Ahrefs SEO Certification**  
   [View Certificate](https://ahrefs.com/academy/certificate/24fbdc6687e04ee6aa7530c90bb4a569)
 
@@ -29,6 +28,9 @@ Here’s a collection of all the **certificates and badges** I’ve earned relat
 
 - **LinkedIn JavaScript Essential Training Certification**  
   [View Certificate](https://www.linkedin.com/learning/certificates/206a255e7d3c2baa0f761d6064e0b7df1ebec35f5b95c77312838e1a1094ddb9?trk=share_certificate)
+
+- **LinkedIn Microsoft Azure AI Essentials Professional Certification**  
+  [View Certificate](https://www.linkedin.com/learning/certificates/e2c68f2e429754968bf409687f445eb2fad3cbd79762f06e84311b5fb371f9d8?trk=share_certificate)
 ---
 
 ✨ *More to come! Always learning, always improving.*
