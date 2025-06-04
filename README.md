@@ -34,6 +34,9 @@ Here’s a collection of all the **certificates and badges** I’ve earned relat
 
 - **LinkedIn Microsoft Azure AI Essentials Professional Certification**  
   [View Certificate](https://www.linkedin.com/learning/certificates/e2c68f2e429754968bf409687f445eb2fad3cbd79762f06e84311b5fb371f9d8?trk=share_certificate)
+
+- **LinkedIn Search Engine Optimization Professional Certification**  
+  [View Certificate](https://www.linkedin.com/learning/certificates/2f4569b7bb0c7ee046ed609bff0ed92868d7e9fb02a67219cd0e4037eeb842a3?trk=share_certificate)
 ---
 
 ✨ *More to come! Always learning, always improving.*
