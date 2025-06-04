@@ -11,6 +11,9 @@ Here’s a collection of all the **certificates and badges** I’ve earned relat
 - **freeCodeCamp: Responsive Web Design**  
   [View Certificate](https://www.freecodecamp.org/certification/Chimorin/responsive-web-design)
 
+- **freeCodeCamp: JavaScript Algorithms and Data Structures**  
+  [View Certificate](https://www.freecodecamp.org/certification/Chimorin/javascript-algorithms-and-data-structures-v8)
+
 - **Google Analytics Certification**  
   [View Certificate](https://skillshop.credential.net/871ed3f6-0fc2-4a71-bb0c-892456e85489#acc.hCPYagDq)
 
