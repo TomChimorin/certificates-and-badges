@@ -40,6 +40,9 @@ Here’s a collection of all the **certificates and badges** I’ve earned relat
 
 - **Getting Started with Semrush Certification**  
   [View Certificate](https://static.semrush.com/academy/certificates/effc5dac1d/yu-zhao_25.pdf)
+
+- **SEO Essentials with Semrush Certification**  
+  [View Certificate](https://static.semrush.com/academy/certificates/3cdf2c2aea/yu-zhao_25.pdf)
 ---
 
 ✨ *More to come! Always learning, always improving.*
