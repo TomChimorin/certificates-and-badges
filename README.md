@@ -43,6 +43,9 @@ Here’s a collection of all the **certificates and badges** I’ve earned relat
 
 - **SEO Essentials with Semrush Certification**  
   [View Certificate](https://static.semrush.com/academy/certificates/3cdf2c2aea/yu-zhao_25.pdf)
+
+- **Semrush Site Audit Course Certification**  
+  [View Certificate](https://static.semrush.com/academy/certificates/3b033eaa9c/yu-zhao_2.pdf)
 ---
 
 ✨ *More to come! Always learning, always improving.*
