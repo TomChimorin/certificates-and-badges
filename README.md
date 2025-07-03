@@ -38,6 +38,9 @@ Here’s a collection of all the **certificates and badges** I’ve earned relat
 - **LinkedIn Search Engine Optimization Professional Certification**  
   [View Certificate](https://www.linkedin.com/learning/certificates/2f4569b7bb0c7ee046ed609bff0ed92868d7e9fb02a67219cd0e4037eeb842a3?trk=share_certificate)
 
+- **LinkedIn Git Essential Training Certification**  
+  [View Certificate](https://www.linkedin.com/learning/certificates/a47a5f38ca1b39268aadeb915bd9e5887bc0cc9f746c1d51aff8236727d5d88b?trk=share_certificate)
+
 - **Getting Started with Semrush Certification**  
   [View Certificate](https://static.semrush.com/academy/certificates/effc5dac1d/yu-zhao_25.pdf)
 
