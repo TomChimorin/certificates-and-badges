@@ -40,6 +40,9 @@ Here’s a collection of all the **certificates and badges** I’ve earned relat
 
 - **LinkedIn Git Essential Training Certification**  
   [View Certificate](https://www.linkedin.com/learning/certificates/a47a5f38ca1b39268aadeb915bd9e5887bc0cc9f746c1d51aff8236727d5d88b?trk=share_certificate)
+  
+- **LinkedIn Learning Git and GitHub Certification**  
+  [View Certificate](https://www.linkedin.com/learning/certificates/1648580e8f54915f7dd7c86cfd17c195d9943f8d3b240fb0743df3781c5e8e57?trk=share_certificate)
 
 - **Getting Started with Semrush Certification**  
   [View Certificate](https://static.semrush.com/academy/certificates/effc5dac1d/yu-zhao_25.pdf)
